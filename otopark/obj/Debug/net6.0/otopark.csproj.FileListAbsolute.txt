@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\bin\Debug\net6.0\otopark.exe
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\bin\Debug\net6.0\otopark.deps.json
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\bin\Debug\net6.0\otopark.runtimeconfig.json
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\bin\Debug\net6.0\otopark.dll
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\bin\Debug\net6.0\otopark.pdb
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\obj\Debug\net6.0\otopark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\obj\Debug\net6.0\otopark.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\obj\Debug\net6.0\otopark.AssemblyInfo.cs
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\obj\Debug\net6.0\otopark.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\obj\Debug\net6.0\otopark.dll
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\obj\Debug\net6.0\refint\otopark.dll
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\obj\Debug\net6.0\otopark.pdb
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\obj\Debug\net6.0\otopark.genruntimeconfig.cache
+C:\Users\pc\source\repos\OtoparkÜcretlendirme\otopark\obj\Debug\net6.0\ref\otopark.dll
